@@ -1,0 +1,45 @@
+TODO:
+
+- find some way to represent 800 penguins on map at once
+- use leaflet instead of ol
+- tileMill for map rendering (?)
+- create a backend (Node.js)
+- more sane database schema
+- store coordinates for all empolyees in database, not in a file
+- make a way to search for people
+- show my neighbours function
+- adapt to mobile display
+- source control
+- gui design
+- define an API
+
+
+- SPA (Single Page Application)
+- link til posisjon, dvs person
+
+- få til litt demo-opplegg-lyntale basert på hva vi finner ut underveis
+
+OPPGAVER:
+ - bakgrunnskart
+ - få data inn i database
+    - koordinater
+    - bakgrunnskartdata
+    - presentert via geoserver e.l.
+ - Konsept for presentasjon etc
+    - Mobil
+    - SPA
+ - se på leaflet, konvertere OL-prototype til Leaflet
+    - presentere leaflet
+ - Jobbe mer med data, spesielt høydedata
+    - se på om det funker å georeferere "bildet" bedre
+    - mase mer på Norsk Polarinstitutt (elevere opp i systemet?)
+ - se på TileMill, presentasjon neste gang??
+
+
+ideer:
+- kontorvis visning på kart (layers?)
+- live søk
+- legge inn egne data (melding/om/bilde)
+    - popup i samme stil som visittkort??
+
+- tilemill
